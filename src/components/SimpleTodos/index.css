@@ -1,0 +1,11 @@
+/* Write your CSS here */
+
+.container {
+  background-color: orange;
+}
+
+.box1 {
+  background-color: white;
+  margin: 20px;
+  border-radius: 15px;
+}
